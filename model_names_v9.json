@@ -36,6 +36,12 @@
       "velocity": "True"
     },
     {
+      "id": "tomb-raider",
+      "name": "Tomb Raider 👀📡",
+      "poseless": "True",
+      "velocity": "True"
+    },
+    {
       "id": "wd-40",
       "name": "WD-40 👀📡"
     }
