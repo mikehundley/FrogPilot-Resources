@@ -1,0 +1,1 @@
+SGO in root folder is actually Dragon Rider. Current FP code in this fork does not recognize newer models after SGO but will work if they are renamed to "secret-good-openpilot.thneed". The "true" SGO is located in the sgo_backup folder. 
